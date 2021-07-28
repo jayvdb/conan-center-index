@@ -1,0 +1,4 @@
+sources:
+  "3.4.10":
+    url: "https://github.com/swift-nav/libsbp/archive/refs/tags/v3.4.10.tar.gz"
+    sha256: f2fb738f49112b25e7849ca0c75415159127e9b5373b13e7027362b8fa0b1224

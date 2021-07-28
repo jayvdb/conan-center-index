@@ -1,0 +1,5 @@
+submodules:
+  "3.4.10":
+    "c/cmake/common":
+      sha256: 6077d2a754d013e3cb9826f589e47b19ab01f4d91ede4f5bfc14db74bc5dc894
+      url: https://github.com/swift-nav/cmake/archive/373d4fcafbbc0c208dc9ecb278d36ed8c9448eda.zip
